@@ -141,7 +141,7 @@ i.fa-eye-slash{
         font-size:10px;
     }
 }
-@media screen and (max-width:300px){
+@media screen and (max-width:550px){
     .bigContainer{
         background-size:2000px;
         
@@ -150,7 +150,7 @@ i.fa-eye-slash{
         width: 80vw;
     }
     input{
-        width: 100%;
+        width: 90%;
     }
     button{
         padding:  .4rem .7rem;
@@ -172,7 +172,7 @@ i.fa-eye-slash{
     }
     i.fa-eye,i.fa-eye-slash{
         position: absolute;
-        right: 0;
+        right: 1rem;
         cursor: pointer;
         top: .5rem;
         font-size:10px;
