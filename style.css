@@ -151,30 +151,32 @@ i.fa-eye-slash{
     }
     input{
         width: 90%;
+        padding: .8rem .5rem;
+        border-radius: 12px;
     }
     button{
         padding:  .4rem .7rem;
-        font-size: .7rem;
-        border-radius: 14px;
+        font-size: 1rem;
+        border-radius: 12px;
     }
     a{
-        font-size: .7rem;
+        font-size: 1rem;
     }
     .signup{
         width: 100%;
         margin-top: .8rem;
     }
     h1{
-        font-size: 3rem;
+        font-size: 5rem;
     }
     input{
-        font-size: .5rem;
+        font-size: 1rem;
     }
     i.fa-eye,i.fa-eye-slash{
         position: absolute;
-        right: 1rem;
+        right: 1.5rem;
         cursor: pointer;
-        top: .5rem;
-        font-size:10px;
+        top: .8rem;
+        font-size:12px;
     }
 }
